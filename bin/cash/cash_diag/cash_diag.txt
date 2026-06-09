@@ -1,0 +1,7 @@
+[2026-06-09 22:19:31] Waiting for Vehicle Announcement...
+
+[2026-06-09 22:19:36] Timeout waiting for Vehicle Announcement
+    ERROR: No response received
+
+[2026-06-09 22:19:36] All connections closed
+

@@ -1,0 +1,371 @@
+false|53
+2025-04-28 07:55:37.576 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-28 07:55:37.576 00002 Downloader: pauseDownload
+2025-04-28 07:55:37.576 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-28 07:55:37.576 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-28 08:12:14.492 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-28 08:12:14.492 00002 Downloader: pauseDownload
+2025-04-28 08:12:14.492 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-28 08:12:14.492 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-28 09:55:20.576 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-28 09:55:20.576 00002 Downloader: pauseDownload
+2025-04-28 09:55:20.577 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-28 09:55:20.577 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-28 14:45:15.565 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-28 14:45:15.565 00002 Downloader: pauseDownload
+2025-04-28 14:45:15.565 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-28 14:45:15.565 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-28 15:23:50.621 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-28 15:23:50.621 00002 Downloader: pauseDownload
+2025-04-28 15:23:50.621 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-28 15:23:50.621 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-28 16:03:15.211 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-28 16:03:15.211 00002 Downloader: pauseDownload
+2025-04-28 16:03:15.211 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-28 16:03:15.211 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-28 17:37:05.413 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-28 17:37:05.413 00002 Downloader: pauseDownload
+2025-04-28 17:37:05.413 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-28 17:37:05.413 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-28 18:14:44.489 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-28 18:14:44.489 00002 Downloader: pauseDownload
+2025-04-28 18:14:44.489 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-28 18:14:44.489 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-28 18:42:54.057 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-28 18:42:54.058 00002 Downloader: pauseDownload
+2025-04-28 18:42:54.058 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-28 18:42:54.058 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-29 08:19:49.611 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-29 08:19:49.611 00002 Downloader: pauseDownload
+2025-04-29 08:19:49.611 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-29 08:19:49.611 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-29 18:01:01.019 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-29 18:01:01.019 00002 Downloader: pauseDownload
+2025-04-29 18:01:01.019 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-29 18:01:01.020 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-29 19:07:34.017 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-29 19:07:34.017 00002 Downloader: pauseDownload
+2025-04-29 19:07:34.017 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-29 19:07:34.017 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-29 19:11:48.768 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-29 19:11:48.768 00002 Downloader: pauseDownload
+2025-04-29 19:11:48.768 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-29 19:11:48.768 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-29 19:16:11.930 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-29 19:16:11.930 00002 Downloader: pauseDownload
+2025-04-29 19:16:11.931 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-29 19:16:11.931 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-30 08:38:47.143 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-30 08:38:47.144 00002 Downloader: pauseDownload
+2025-04-30 08:38:47.144 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-30 08:38:47.144 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-30 09:11:25.643 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-30 09:11:25.643 00002 Downloader: pauseDownload
+2025-04-30 09:11:25.643 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-30 09:11:25.643 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-30 14:41:22.341 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-30 14:41:22.342 00002 Downloader: pauseDownload
+2025-04-30 14:41:22.342 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-30 14:41:22.342 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-30 15:24:51.043 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-30 15:24:51.043 00002 Downloader: pauseDownload
+2025-04-30 15:24:51.043 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-30 15:24:51.043 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-30 16:01:58.595 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-30 16:01:58.595 00002 Downloader: pauseDownload
+2025-04-30 16:01:58.595 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-30 16:01:58.595 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-30 16:53:01.213 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-30 16:53:01.213 00002 Downloader: pauseDownload
+2025-04-30 16:53:01.214 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-30 16:53:01.214 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-30 17:27:14.118 00002 App: onCreate()
+BUILD    TYPE = userdebug
+BUILD    TIME = 2024_10_09_160149
+       FLAVOR = prod_release
+VER      NAME = 1.5.3
+VER      CODE = 53
+2025-04-30 17:27:50.566 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-30 17:27:50.566 00002 Downloader: pauseDownload
+2025-04-30 17:27:50.567 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-30 17:27:50.567 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-30 21:46:15.755 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-30 21:46:15.755 00002 Downloader: pauseDownload
+2025-04-30 21:46:15.755 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-30 21:46:15.756 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-30 22:32:41.173 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-30 22:32:41.173 00002 Downloader: pauseDownload
+2025-04-30 22:32:41.174 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-30 22:32:41.174 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-04-30 23:25:48.618 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-04-30 23:25:48.618 00002 Downloader: pauseDownload
+2025-04-30 23:25:48.619 00002 DownloadVBFTask: downloading field, get value=false
+2025-04-30 23:25:48.619 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 09:26:38.733 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 09:26:38.734 00002 Downloader: pauseDownload
+2025-05-01 09:26:38.734 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 09:26:38.734 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 09:36:29.551 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 09:36:29.551 00002 Downloader: pauseDownload
+2025-05-01 09:36:29.551 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 09:36:29.552 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 11:41:49.907 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 11:41:49.907 00002 Downloader: pauseDownload
+2025-05-01 11:41:49.907 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 11:41:49.908 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 15:20:03.573 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 15:20:03.573 00002 Downloader: pauseDownload
+2025-05-01 15:20:03.574 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 15:20:03.574 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 17:19:59.790 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 17:19:59.791 00002 Downloader: pauseDownload
+2025-05-01 17:19:59.791 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 17:19:59.792 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 17:50:26.976 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 17:50:26.976 00002 Downloader: pauseDownload
+2025-05-01 17:50:26.977 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 17:50:26.977 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 18:27:25.943 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 18:27:25.944 00002 Downloader: pauseDownload
+2025-05-01 18:27:25.944 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 18:27:25.944 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 19:04:44.635 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 19:04:44.636 00002 Downloader: pauseDownload
+2025-05-01 19:04:44.636 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 19:04:44.636 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 20:14:55.980 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 20:14:55.980 00002 Downloader: pauseDownload
+2025-05-01 20:14:55.981 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 20:14:55.981 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 20:21:57.632 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 20:21:57.632 00002 Downloader: pauseDownload
+2025-05-01 20:21:57.633 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 20:21:57.633 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 20:51:57.218 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 20:51:57.218 00002 Downloader: pauseDownload
+2025-05-01 20:51:57.218 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 20:51:57.219 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 20:57:54.811 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 20:57:54.811 00002 Downloader: pauseDownload
+2025-05-01 20:57:54.812 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 20:57:54.812 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 21:30:41.912 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 21:30:41.913 00002 Downloader: pauseDownload
+2025-05-01 21:30:41.913 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 21:30:41.913 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-01 23:36:07.077 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-01 23:36:07.077 00002 Downloader: pauseDownload
+2025-05-01 23:36:07.078 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-01 23:36:07.078 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 11:47:24.229 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 11:47:24.229 00002 Downloader: pauseDownload
+2025-05-02 11:47:24.229 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 11:47:24.230 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 12:20:50.366 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 12:20:50.367 00002 Downloader: pauseDownload
+2025-05-02 12:20:50.367 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 12:20:50.367 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 16:37:45.892 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 16:37:45.892 00002 Downloader: pauseDownload
+2025-05-02 16:37:45.893 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 16:37:45.893 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 16:53:14.790 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 16:53:14.790 00002 Downloader: pauseDownload
+2025-05-02 16:53:14.790 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 16:53:14.790 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 17:42:49.804 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 17:42:49.805 00002 Downloader: pauseDownload
+2025-05-02 17:42:49.805 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 17:42:49.805 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 17:49:50.887 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 17:49:50.887 00002 Downloader: pauseDownload
+2025-05-02 17:49:50.887 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 17:49:50.888 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 19:59:03.523 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 19:59:03.523 00002 Downloader: pauseDownload
+2025-05-02 19:59:03.523 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 19:59:03.523 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 22:21:04.607 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 22:21:04.607 00002 Downloader: pauseDownload
+2025-05-02 22:21:04.607 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 22:21:04.607 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 23:10:25.650 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 23:10:25.650 00002 Downloader: pauseDownload
+2025-05-02 23:10:25.650 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 23:10:25.650 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 23:23:18.006 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 23:23:18.007 00002 Downloader: pauseDownload
+2025-05-02 23:23:18.007 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 23:23:18.007 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-02 23:25:24.211 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-02 23:25:24.211 00002 Downloader: pauseDownload
+2025-05-02 23:25:24.212 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-02 23:25:24.212 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 09:43:59.674 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 09:43:59.674 00002 Downloader: pauseDownload
+2025-05-03 09:43:59.675 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 09:43:59.675 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 09:45:50.860 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 09:45:50.887 00002 Downloader: pauseDownload
+2025-05-03 09:45:50.887 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 09:45:50.887 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 12:08:45.444 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 12:08:45.446 00002 Downloader: pauseDownload
+2025-05-03 12:08:45.446 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 12:08:45.447 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 12:43:48.198 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 12:43:48.259 00002 Downloader: pauseDownload
+2025-05-03 12:43:48.259 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 12:43:48.259 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 12:50:30.439 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 12:50:30.440 00002 Downloader: pauseDownload
+2025-05-03 12:50:30.440 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 12:50:30.440 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 12:51:44.006 00002 App: onCreate()
+BUILD    TYPE = userdebug
+BUILD    TIME = 2024_10_09_160149
+       FLAVOR = prod_release
+VER      NAME = 1.5.3
+VER      CODE = 53
+2025-05-03 12:56:50.333 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 12:56:50.333 00002 Downloader: pauseDownload
+2025-05-03 12:56:50.333 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 12:56:50.335 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 13:11:51.537 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 13:11:51.538 00002 Downloader: pauseDownload
+2025-05-03 13:11:51.538 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 13:11:51.538 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 13:14:33.561 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 13:14:33.561 00002 Downloader: pauseDownload
+2025-05-03 13:14:33.561 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 13:14:33.561 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 17:27:36.179 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 17:27:36.180 00002 Downloader: pauseDownload
+2025-05-03 17:27:36.180 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 17:27:36.180 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 17:48:57.615 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 17:48:57.615 00002 Downloader: pauseDownload
+2025-05-03 17:48:57.615 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 17:48:57.616 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-03 22:02:55.392 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-03 22:02:55.392 00002 Downloader: pauseDownload
+2025-05-03 22:02:55.393 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-03 22:02:55.393 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-04 16:47:30.663 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-04 16:47:30.664 00002 Downloader: pauseDownload
+2025-05-04 16:47:30.664 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-04 16:47:30.665 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-05 08:14:34.602 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-05 08:14:34.602 00002 Downloader: pauseDownload
+2025-05-05 08:14:34.603 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-05 08:14:34.603 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-05 10:07:28.737 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-05 10:07:28.737 00002 Downloader: pauseDownload
+2025-05-05 10:07:28.738 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-05 10:07:28.738 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-05 13:05:47.057 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-05 13:05:47.057 00002 Downloader: pauseDownload
+2025-05-05 13:05:47.058 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-05 13:05:47.058 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-05 13:27:09.648 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-05 13:27:09.648 00002 Downloader: pauseDownload
+2025-05-05 13:27:09.649 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-05 13:27:09.649 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-05 13:39:59.821 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-05 13:39:59.821 00002 Downloader: pauseDownload
+2025-05-05 13:39:59.821 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-05 13:39:59.822 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-05 14:32:00.650 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-05 14:32:00.651 00002 Downloader: pauseDownload
+2025-05-05 14:32:00.651 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-05 14:32:00.651 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-05 17:58:42.343 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-05 17:58:42.344 00002 Downloader: pauseDownload
+2025-05-05 17:58:42.344 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-05 17:58:42.346 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-05 19:34:53.053 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-05 19:34:53.054 00002 Downloader: pauseDownload
+2025-05-05 19:34:53.054 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-05 19:34:53.055 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-05 21:40:11.927 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-05 21:40:11.927 00002 Downloader: pauseDownload
+2025-05-05 21:40:11.927 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-05 21:40:11.928 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-06 09:56:52.578 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-06 09:56:52.578 00002 Downloader: pauseDownload
+2025-05-06 09:56:52.579 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-06 09:56:52.579 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-06 12:59:31.120 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-06 12:59:31.120 00002 Downloader: pauseDownload
+2025-05-06 12:59:31.121 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-06 12:59:31.121 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-06 15:41:42.575 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-06 15:41:42.575 00002 Downloader: pauseDownload
+2025-05-06 15:41:42.576 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-06 15:41:42.576 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-06 17:50:59.547 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-06 17:50:59.548 00002 Downloader: pauseDownload
+2025-05-06 17:50:59.548 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-06 17:50:59.548 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-06 19:25:01.733 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-06 19:25:01.734 00002 Downloader: pauseDownload
+2025-05-06 19:25:01.734 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-06 19:25:01.735 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-06 20:15:39.503 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-06 20:15:39.504 00002 Downloader: pauseDownload
+2025-05-06 20:15:39.504 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-06 20:15:39.504 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-06 20:17:17.699 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-06 20:17:17.699 00002 Downloader: pauseDownload
+2025-05-06 20:17:17.700 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-06 20:17:17.701 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-06 21:47:11.917 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-06 21:47:11.918 00002 Downloader: pauseDownload
+2025-05-06 21:47:11.918 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-06 21:47:11.919 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-07 08:06:59.545 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-07 08:06:59.545 00002 Downloader: pauseDownload
+2025-05-07 08:06:59.546 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-07 08:06:59.546 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-07 10:12:25.587 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-07 10:12:25.588 00002 Downloader: pauseDownload
+2025-05-07 10:12:25.588 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-07 10:12:25.588 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-07 15:21:09.161 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-07 15:21:09.161 00002 Downloader: pauseDownload
+2025-05-07 15:21:09.162 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-07 15:21:09.162 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-07 16:01:29.803 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-07 16:01:29.808 00002 Downloader: pauseDownload
+2025-05-07 16:01:29.808 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-07 16:01:29.809 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-07 18:01:13.618 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-07 18:01:13.619 00002 Downloader: pauseDownload
+2025-05-07 18:01:13.619 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-07 18:01:13.620 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-07 19:07:02.193 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-07 19:07:02.193 00002 Downloader: pauseDownload
+2025-05-07 19:07:02.194 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-07 19:07:02.194 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-08 02:02:33.604 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-08 02:02:33.605 00002 Downloader: pauseDownload
+2025-05-08 02:02:33.605 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-08 02:02:33.605 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-08 14:15:34.699 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-08 14:15:34.699 00002 Downloader: pauseDownload
+2025-05-08 14:15:34.700 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-08 14:15:34.700 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-08 18:19:31.500 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-08 18:19:31.501 00002 Downloader: pauseDownload
+2025-05-08 18:19:31.501 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-08 18:19:31.501 00002 Downloader: pauseDownload: no downloading task, do nothing
+2025-05-08 19:08:20.127 00002 App: onCreate()
+BUILD    TYPE = userdebug
+BUILD    TIME = 2024_10_09_160149
+       FLAVOR = prod_release
+VER      NAME = 1.5.3
+VER      CODE = 53
+2025-05-08 19:08:56.149 00002 ScreenReceiver: onReceive: action=android.intent.action.SCREEN_OFF
+2025-05-08 19:08:56.149 00002 Downloader: pauseDownload
+2025-05-08 19:08:56.149 00002 DownloadVBFTask: downloading field, get value=false
+2025-05-08 19:08:56.150 00002 Downloader: pauseDownload: no downloading task, do nothing
