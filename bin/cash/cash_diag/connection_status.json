@@ -1,1 +1,5 @@
-{"status": "Connected", "vin": "XTA12345678901234", "timestamp": "2026-06-09 22:18:41"}
+{
+  "connection_status": "Disconnected",
+  "vin": "none",
+  "timestamp": "2026-06-09 22:47:03"
+}
